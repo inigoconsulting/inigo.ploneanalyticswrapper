@@ -16,7 +16,7 @@ long_description = (
 
 setup(name='inigo.ploneanalyticswrapper',
       version=version,
-      description="",
+      description="A wrapper for plone.analytics viewlet which adds a selectable DIV around it",
       long_description=long_description,
       # Get more strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers
