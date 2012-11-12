@@ -9,7 +9,7 @@
         name="default"
         title="inigo.ploneanalyticswrapper"
         directory="profiles/default"
-        description=""
+        description="A wrapper for plone.analytics viewlet which adds a selectable DIV around it"
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />
 
